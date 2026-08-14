@@ -1,1 +1,1 @@
-[![docker-build-and-image-push](https://github.com/Meraj0302/day45-github-action-practice/actions/workflows/docker-publish.yml/badge.svg?event=status)](https://github.com/Meraj0302/day45-github-action-practice/actions/workflows/docker-publish.yml)
+[![docker-build-and-image-push](https://github.com/Meraj0302/day45-github-action-practice/actions/workflows/docker-publish.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/Meraj0302/day45-github-action-practice/actions/workflows/docker-publish.yml)
